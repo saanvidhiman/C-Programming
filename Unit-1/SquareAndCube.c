@@ -3,7 +3,7 @@
 #include<conio.h>
 void main(){
     int a,sq,cube;
-    printf("enter sum ");
+    printf("enter num ");
     scanf("%d",&a);
     sq=a*a;
     cube=a*a*a;
