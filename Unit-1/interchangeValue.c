@@ -3,10 +3,8 @@
 #include<conio.h>
 void main(){
     int a,b,temp;
-    printf("enter sum ");
-    scanf("%d",&a);
-    printf("enter sum2 ");
-    scanf("%d",&b);
+    printf("enter two numbers : ");
+    scanf("%d%d",&a,&b);
     temp=a;
     a=b;
     b=temp;
