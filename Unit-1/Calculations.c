@@ -3,7 +3,7 @@
 #include<conio.h>
 void main(){
     int a,b,add,sub,mul,div,mod;
-    printf("enter sum ");
+    printf("enter two numbers : ");
     scanf("%d%d",&a,&b);
     add=a+b;
     sub=a-b;
